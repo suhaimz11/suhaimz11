@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,45:2563eb,100:22d3ee&text=Suhaim%20Manna&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Master's%20Student%20in%20Artificial%20Intelligence&descAlignY=58&descSize=18" alt="Suhaim Manna header" />
+  <img src="./assets/ai-lab-banner.svg" alt="Suhaim Manna AI Lab Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=850&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+AI+agents+and+voice-powered+tools;Exploring+ML%2C+DL%2C+LLMs%2C+Computer+Vision+and+MLOps;Turning+ideas+into+real%2C+useful+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=750&color=22D3EE&center=true&vCenter=true&width=820&lines=Training+myself+to+build+better+AI+systems;Voice+agents+%7C+LLMs+%7C+ML+%7C+Full-stack+AI+apps;Learning+deeply.+Building+publicly.+Iterating+fast." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,55 +11,75 @@
     <img src="https://komarev.com/ghpvc/?username=Suhaimz11&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="Profile views" />
   </a>
   <a href="https://github.com/Suhaimz11?tab=followers">
-    <img src="https://img.shields.io/github/followers/Suhaimz11?label=Followers&style=for-the-badge&color=2563eb&labelColor=0f172a" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Suhaimz11?label=Followers&style=for-the-badge&color=2563eb&labelColor=020617" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents-22d3ee?style=for-the-badge&labelColor=0f172a" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/AI%20Student-0f172a?style=for-the-badge&logo=openai&logoColor=22d3ee" alt="AI Student" />
+  <img src="https://img.shields.io/badge/Builder-0f172a?style=for-the-badge&logo=githubspark&logoColor=a78bfa" alt="Builder" />
 </p>
 
 ---
 
-## AI Lab
+## System Profile
 
-```txt
-role        Master's student in Artificial Intelligence
-building    voice agents, AI assistants, automation tools, web apps
-learning    ML, deep learning, LLMs, computer vision, data science, MLOps
-stack       Python, React, JavaScript, Node.js, TensorFlow, PyTorch, SQL
-mission     make AI projects that are not just smart, but actually useful
+```yaml
+name: Suhaim Manna
+handle: Suhaimz11
+role: Master's Student in Artificial Intelligence
+current_mode: learning, building, experimenting
+interests:
+  - AI agents
+  - voice interfaces
+  - machine learning
+  - deep learning
+  - LLM applications
+  - computer vision
+  - data science
+  - MLOps
+mission: build AI projects that feel useful, practical, and alive
 ```
 
-## Current Signal
+## What I Am Building Toward
 
 <table>
   <tr>
-    <td width="33%" align="center">
-      <h3>AI Agents</h3>
-      <p>Building agent-style tools that can listen, reason, and take action.</p>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/01-Agents-22d3ee?style=for-the-badge&labelColor=020617" alt="Agents" />
+      <br /><br />
+      Assistants that can understand context, use tools, and complete workflows.
     </td>
-    <td width="33%" align="center">
-      <h3>Machine Learning</h3>
-      <p>Learning the core ideas behind models, data, training, and evaluation.</p>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/02-Voice-38bdf8?style=for-the-badge&labelColor=020617" alt="Voice" />
+      <br /><br />
+      Natural voice experiences that make AI feel easier to use.
     </td>
-    <td width="33%" align="center">
-      <h3>Full Stack</h3>
-      <p>Using React and web tools to turn AI ideas into usable interfaces.</p>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/03-Models-818cf8?style=for-the-badge&labelColor=020617" alt="Models" />
+      <br /><br />
+      ML and DL foundations, from training loops to evaluation.
+    </td>
+    <td width="25%" align="center">
+      <img src="https://img.shields.io/badge/04-Products-a78bfa?style=for-the-badge&labelColor=020617" alt="Products" />
+      <br /><br />
+      Full-stack AI apps that turn experiments into usable products.
     </td>
   </tr>
 </table>
 
-## Tech Arsenal
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,github,vscode,tensorflow,pytorch,mysql&perline=6" alt="Tech stack icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=22d3ee" alt="Python" />
-  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=22d3ee" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=ff6f00" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=mysql&logoColor=22d3ee" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=22d3ee" alt="Python" />
+  <img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=22d3ee" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=facc15" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TensorFlow-020617?style=for-the-badge&logo=tensorflow&logoColor=ff6f00" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-020617?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=mysql&logoColor=38bdf8" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=f97316" alt="Git" />
 </p>
 
 ## Featured Builds
@@ -69,33 +89,47 @@ mission     make AI projects that are not just smart, but actually useful
     <td width="50%">
       <h3 align="center">voice-agent</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/AI-Voice%20Agent-22d3ee?style=for-the-badge&labelColor=0f172a" alt="Voice agent badge" />
+        <img src="https://img.shields.io/badge/Type-Voice%20AI%20Agent-22d3ee?style=for-the-badge&labelColor=020617" alt="Voice AI Agent" />
       </p>
-      <p align="center">
-        A voice-based AI agent built around interactive, intelligent conversations.
+      <p>
+        A voice-based AI agent focused on interactive, intelligent conversation. This is where I experiment with the bridge between speech, reasoning, and usable assistant behavior.
       </p>
       <p align="center">
         <a href="https://github.com/Suhaimz11/voice-agent">
-          <img src="https://img.shields.io/badge/Open%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open voice-agent repository" />
+          <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore voice-agent" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">AI-AGENT</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/AI-Autonomous%20Agent-2563eb?style=for-the-badge&labelColor=0f172a" alt="AI agent badge" />
+        <img src="https://img.shields.io/badge/Type-Autonomous%20AI%20Agent-818cf8?style=for-the-badge&labelColor=020617" alt="Autonomous AI Agent" />
       </p>
-      <p align="center">
-        An AI agent project for experimenting with workflows, assistants, and automation.
+      <p>
+        An AI agent project for exploring autonomous workflows, assistant behavior, and practical automation patterns with modern AI systems.
       </p>
       <p align="center">
         <a href="https://github.com/Suhaimz11/AI-AGENT">
-          <img src="https://img.shields.io/badge/Open%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open AI-AGENT repository" />
+          <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore AI-AGENT" />
         </a>
       </p>
     </td>
   </tr>
 </table>
+
+## Learning Map
+
+```mermaid
+flowchart LR
+    A["AI Foundations"] --> B["Machine Learning"]
+    B --> C["Deep Learning"]
+    C --> D["LLMs"]
+    C --> E["Computer Vision"]
+    D --> F["AI Agents"]
+    E --> G["Applied AI Apps"]
+    F --> H["Voice + Tool-Using Assistants"]
+    G --> H
+```
 
 ## Contribution Snake
 
@@ -111,16 +145,20 @@ mission     make AI projects that are not just smart, but actually useful
 
 <p align="center">
   <a href="https://www.linkedin.com/in/suhaim-manna/">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Suhaimz11">
-    <img src="https://img.shields.io/badge/X-0f172a?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" />
+    <img src="https://img.shields.io/badge/X-020617?style=for-the-badge&logo=x&logoColor=ffffff" alt="X" />
   </a>
   <a href="mailto:suhaimmanna99@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=ef4444" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22d3ee,55:2563eb,100:0f172a" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22d3ee,50:818cf8,100:a78bfa" alt="Gradient divider" />
+</p>
+
+<p align="center">
+  <sub>Learning deeply. Building publicly. Improving one project at a time.</sub>
 </p>
