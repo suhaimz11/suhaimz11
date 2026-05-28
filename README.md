@@ -1,9 +1,13 @@
+<h1 align="center">Hey, I'm Suhaim Manna</h1>
+
+<h3 align="center">Master's Student in Artificial Intelligence | AI Agents | Voice Tools | Full-stack AI Apps</h3>
+
 <p align="center">
-  <img src="./assets/ai-lab-banner.svg" alt="Suhaim Manna AI Lab Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2400&pause=650&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI+agents+that+do+more+than+chat;Learning+ML%2C+Deep+Learning%2C+LLMs%2C+CV+and+MLOps;Turning+AI+ideas+into+real+projects;React+%2B+Python+%2B+AI+workflows" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&pause=750&color=22D3EE&center=true&vCenter=true&width=820&lines=Training+myself+to+build+better+AI+systems;Voice+agents+%7C+LLMs+%7C+ML+%7C+Full-stack+AI+apps;Learning+deeply.+Building+publicly.+Iterating+fast." alt="Typing SVG" />
+  <img width="520" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
 </p>
 
 <p align="center">
@@ -13,54 +17,42 @@
   <a href="https://github.com/Suhaimz11?tab=followers">
     <img src="https://img.shields.io/github/followers/Suhaimz11?label=Followers&style=for-the-badge&color=2563eb&labelColor=020617" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/badge/AI%20Student-0f172a?style=for-the-badge&logo=openai&logoColor=22d3ee" alt="AI Student" />
-  <img src="https://img.shields.io/badge/Builder-0f172a?style=for-the-badge&logo=githubspark&logoColor=a78bfa" alt="Builder" />
+  <img src="https://img.shields.io/badge/Mode-Building%20AI%20Stuff-22d3ee?style=for-the-badge&labelColor=020617" alt="Building AI Stuff" />
 </p>
 
 ---
 
-## System Profile
+## AI Cockpit
 
-```yaml
-name: Suhaim Manna
-handle: Suhaimz11
-role: Master's Student in Artificial Intelligence
-current_mode: learning, building, experimenting
-interests:
-  - AI agents
-  - voice interfaces
-  - machine learning
-  - deep learning
-  - LLM applications
-  - computer vision
-  - data science
-  - MLOps
-mission: build AI projects that feel useful, practical, and alive
+```txt
+> booting profile...
+
+name        Suhaim Manna
+role        Master's student in Artificial Intelligence
+focus       AI agents, voice interfaces, LLM apps, machine learning
+stack       Python, React, JavaScript, Node.js, TensorFlow, PyTorch, SQL
+status      learning deeply, building publicly, improving fast
 ```
 
-## What I Am Building Toward
+## Mission Board
 
 <table>
   <tr>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/01-Agents-22d3ee?style=for-the-badge&labelColor=020617" alt="Agents" />
-      <br /><br />
-      Assistants that can understand context, use tools, and complete workflows.
+    <td align="center" width="25%">
+      <h3>AI Agents</h3>
+      <p>Tool-using assistants, autonomous workflows, and smarter automation.</p>
     </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/02-Voice-38bdf8?style=for-the-badge&labelColor=020617" alt="Voice" />
-      <br /><br />
-      Natural voice experiences that make AI feel easier to use.
+    <td align="center" width="25%">
+      <h3>Voice AI</h3>
+      <p>Voice-powered agents that feel natural, responsive, and useful.</p>
     </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/03-Models-818cf8?style=for-the-badge&labelColor=020617" alt="Models" />
-      <br /><br />
-      ML and DL foundations, from training loops to evaluation.
+    <td align="center" width="25%">
+      <h3>ML / DL</h3>
+      <p>Models, training, evaluation, data, and deep learning foundations.</p>
     </td>
-    <td width="25%" align="center">
-      <img src="https://img.shields.io/badge/04-Products-a78bfa?style=for-the-badge&labelColor=020617" alt="Products" />
-      <br /><br />
-      Full-stack AI apps that turn experiments into usable products.
+    <td align="center" width="25%">
+      <h3>AI Apps</h3>
+      <p>React + Python projects that turn experiments into products.</p>
     </td>
   </tr>
 </table>
@@ -78,8 +70,6 @@ mission: build AI projects that feel useful, practical, and alive
   <img src="https://img.shields.io/badge/Node.js-020617?style=for-the-badge&logo=nodedotjs&logoColor=22c55e" alt="Node.js" />
   <img src="https://img.shields.io/badge/TensorFlow-020617?style=for-the-badge&logo=tensorflow&logoColor=ff6f00" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-020617?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=mysql&logoColor=38bdf8" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=f97316" alt="Git" />
 </p>
 
 ## Featured Builds
@@ -89,46 +79,45 @@ mission: build AI projects that feel useful, practical, and alive
     <td width="50%">
       <h3 align="center">voice-agent</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Type-Voice%20AI%20Agent-22d3ee?style=for-the-badge&labelColor=020617" alt="Voice AI Agent" />
+        <img src="https://img.shields.io/badge/Voice%20AI-Agent-22d3ee?style=for-the-badge&labelColor=020617" alt="Voice AI Agent" />
       </p>
-      <p>
-        A voice-based AI agent focused on interactive, intelligent conversation. This is where I experiment with the bridge between speech, reasoning, and usable assistant behavior.
+      <p align="center">
+        A voice-based AI agent focused on interactive, intelligent conversations.
       </p>
       <p align="center">
         <a href="https://github.com/Suhaimz11/voice-agent">
-          <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore voice-agent" />
+          <img src="https://img.shields.io/badge/Open%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open voice-agent" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center">AI-AGENT</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Type-Autonomous%20AI%20Agent-818cf8?style=for-the-badge&labelColor=020617" alt="Autonomous AI Agent" />
+        <img src="https://img.shields.io/badge/Autonomous%20AI-Agent-818cf8?style=for-the-badge&labelColor=020617" alt="Autonomous AI Agent" />
       </p>
-      <p>
-        An AI agent project for exploring autonomous workflows, assistant behavior, and practical automation patterns with modern AI systems.
+      <p align="center">
+        An AI agent project for experimenting with workflows, assistants, and automation.
       </p>
       <p align="center">
         <a href="https://github.com/Suhaimz11/AI-AGENT">
-          <img src="https://img.shields.io/badge/Explore%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore AI-AGENT" />
+          <img src="https://img.shields.io/badge/Open%20Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open AI-AGENT" />
         </a>
       </p>
     </td>
   </tr>
 </table>
 
-## Learning Map
+## Learning Path
 
 ```mermaid
 flowchart LR
-    A["AI Foundations"] --> B["Machine Learning"]
+    A["Math + Python"] --> B["Machine Learning"]
     B --> C["Deep Learning"]
     C --> D["LLMs"]
     C --> E["Computer Vision"]
     D --> F["AI Agents"]
-    E --> G["Applied AI Apps"]
-    F --> H["Voice + Tool-Using Assistants"]
-    G --> H
+    F --> G["Voice + Tool Use"]
+    G --> H["Real AI Products"]
 ```
 
 ## Contribution Snake
@@ -156,9 +145,5 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:22d3ee,50:818cf8,100:a78bfa" alt="Gradient divider" />
-</p>
-
-<p align="center">
-  <sub>Learning deeply. Building publicly. Improving one project at a time.</sub>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Thanks+for+visiting.;Now+back+to+building+something+cool." alt="Footer typing animation" />
 </p>
