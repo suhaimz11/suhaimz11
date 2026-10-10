@@ -1,39 +1,56 @@
 <div align="center">
 
-# Suhaim Manna
+<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0F172A,100:6366F1&text=SUHAIM%20MANNA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&stroke=818CF8&strokeWidth=1" width="100%" alt="Suhaim Manna" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1800&color=94A3B8&center=true&vCenter=true&width=600&height=45&lines=Building+AI+agents+and+voice+interfaces.;Turning+AI+research+into+working+software." alt="Building AI agents and voice interfaces. Turning AI research into working software." />
+### Building intelligence into everyday software.
 
-Master’s student in Artificial Intelligence  
-Focused on intelligent systems, natural interaction, and useful software.
+AI master’s student exploring agents, voice interfaces, and full-stack AI.
 
-[LinkedIn](https://www.linkedin.com/in/suhaim-manna/) &nbsp; / &nbsp; [Email](mailto:suhaimmanna99@gmail.com) &nbsp; / &nbsp; [X](https://x.com/Suhaimz11)
+[LinkedIn](https://www.linkedin.com/in/suhaim-manna/)  ·  [Email](mailto:suhaimmanna99@gmail.com)  ·  [X](https://x.com/Suhaimz11)
 
 </div>
 
+<br>
+
+### / About
+
+I’m interested in how AI moves beyond a model and becomes something people
+can interact with. I’m currently building with Python and React, exploring
+agent workflows, and learning how to take AI applications from prototype
+to deployment.
+
+<br>
+
+### / Selected work
+
+**[Voice Agent ↗](https://github.com/Suhaimz11/voice-agent)**  
+A voice-based AI agent exploring natural, interactive conversations.  
+<sub>VOICE INTERFACES &nbsp; / &nbsp; AI AGENTS</sub>
+
+<br>
+
+**[AI Agent ↗](https://github.com/Suhaimz11/AI-AGENT)**  
+Experiments with intelligent assistants, workflows, and automation.  
+<sub>AGENT WORKFLOWS &nbsp; / &nbsp; AUTOMATION</sub>
+
+<br>
+
+### / Stack
+
+**Languages** &nbsp; Python · JavaScript  
+**Applications** &nbsp; React · Node.js · HTML · CSS  
+**Machine learning** &nbsp; PyTorch · TensorFlow  
+**Tools & data** &nbsp; Git · GitHub · MySQL
+
+<br>
+
+### / Currently exploring
+
+Machine learning & deep learning  /  Large language models  
+Computer vision  /  Data science & MLOps
+
+<br>
+
 ---
 
-### Selected projects
-
-| Project | What I’m exploring |
-| :--- | :--- |
-| [**Voice Agent ↗**](https://github.com/Suhaimz11/voice-agent) | Voice interfaces for natural, interactive AI conversations. |
-| [**AI Agent ↗**](https://github.com/Suhaimz11/AI-AGENT) | Agent workflows, intelligent assistants, and automation. |
-
-### Toolkit
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,pytorch,tensorflow,mysql,git&theme=dark&perline=8" alt="Python, JavaScript, React, Node.js, PyTorch, TensorFlow, MySQL, and Git" />
-</p>
-
-### Current focus
-
-- Building AI agents with practical applications.
-- Exploring machine learning, deep learning, LLMs, and computer vision.
-- Strengthening the path from experiments to deployed applications with MLOps.
-
----
-
-<div align="center">
-  <sub>From understanding the models to building what comes next.</sub>
-</div>
+<sub>SUHAIM MANNA &nbsp; / &nbsp; LEARNING IN PUBLIC. BUILDING WITH INTENT.</sub>
