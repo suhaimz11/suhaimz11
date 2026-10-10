@@ -1,31 +1,39 @@
+<div align="center">
+
 # Suhaim Manna
-### AI student · Building agents, voice interfaces & useful tools
 
-I'm pursuing a master's in Artificial Intelligence and turning what I learn into working projects. My interests sit at the intersection of AI agents, voice interaction, and full-stack development.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3500&pause=1800&color=94A3B8&center=true&vCenter=true&width=600&height=45&lines=Building+AI+agents+and+voice+interfaces.;Turning+AI+research+into+working+software." alt="Building AI agents and voice interfaces. Turning AI research into working software." />
 
-[LinkedIn](https://www.linkedin.com/in/suhaim-manna/) · [Email](mailto:suhaimmanna99@gmail.com) · [X](https://x.com/Suhaimz11)
+Master’s student in Artificial Intelligence  
+Focused on intelligent systems, natural interaction, and useful software.
+
+[LinkedIn](https://www.linkedin.com/in/suhaim-manna/) &nbsp; / &nbsp; [Email](mailto:suhaimmanna99@gmail.com) &nbsp; / &nbsp; [X](https://x.com/Suhaimz11)
+
+</div>
 
 ---
 
-### Building
+### Selected projects
 
-| Project | Focus |
+| Project | What I’m exploring |
 | :--- | :--- |
-| [**Voice Agent ↗**](https://github.com/Suhaimz11/voice-agent) | Exploring natural, interactive conversations with a voice-based AI agent. |
-| [**AI Agent ↗**](https://github.com/Suhaimz11/AI-AGENT) | Experimenting with AI assistants, agent workflows, and automation. |
+| [**Voice Agent ↗**](https://github.com/Suhaimz11/voice-agent) | Voice interfaces for natural, interactive AI conversations. |
+| [**AI Agent ↗**](https://github.com/Suhaimz11/AI-AGENT) | Agent workflows, intelligent assistants, and automation. |
 
-### Working with
+### Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,pytorch,tensorflow,mysql,git&perline=8" alt="Python, JavaScript, React, Node.js, PyTorch, TensorFlow, MySQL, and Git" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,pytorch,tensorflow,mysql,git&theme=dark&perline=8" alt="Python, JavaScript, React, Node.js, PyTorch, TensorFlow, MySQL, and Git" />
 </p>
 
-### Exploring
+### Current focus
 
-- **Intelligent systems** — machine learning, deep learning, and computer vision.
-- **Language & interaction** — LLMs, AI agents, and voice interfaces.
-- **From prototype to product** — full-stack AI applications and MLOps.
+- Building AI agents with practical applications.
+- Exploring machine learning, deep learning, LLMs, and computer vision.
+- Strengthening the path from experiments to deployed applications with MLOps.
 
 ---
 
-<sub>Learning in public. Building with purpose.</sub>
+<div align="center">
+  <sub>From understanding the models to building what comes next.</sub>
+</div>
