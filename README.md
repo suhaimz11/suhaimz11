@@ -1,56 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:0F172A,100:6366F1&text=SUHAIM%20MANNA&fontSize=42&fontColor=FFFFFF&animation=fadeIn&stroke=818CF8&strokeWidth=1" width="100%" alt="Suhaim Manna" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:312E81,100:6366F1&height=220&section=header&text=SUHAIM%20MANNA&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=AI%20ENGINEERING%20%2F%20AGENTS%20%2F%20VOICE&descSize=13&descAlignY=58&animation=fadeIn" alt="Suhaim Manna — AI Engineering, Agents, Voice" />
 
-### Building intelligence into everyday software.
+<a href="https://github.com/Suhaimz11">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3200&pause=2200&color=A5B4FC&center=true&vCenter=true&width=650&height=40&lines=%3E+building+agents+that+do+more+than+chat;%3E+exploring+voice+as+an+interface;%3E+connecting+models+to+real+applications" alt="Building agents. Exploring voice interfaces. Connecting models to real applications." />
+</a>
 
-AI master’s student exploring agents, voice interfaces, and full-stack AI.
+<br><br>
 
-[LinkedIn](https://www.linkedin.com/in/suhaim-manna/)  ·  [Email](mailto:suhaimmanna99@gmail.com)  ·  [X](https://x.com/Suhaimz11)
+<a href="https://www.linkedin.com/in/suhaim-manna/"><img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=A5B4FC" alt="LinkedIn" /></a>
+&nbsp;
+<a href="mailto:suhaimmanna99@gmail.com"><img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=A5B4FC" alt="Email" /></a>
+&nbsp;
+<a href="https://x.com/Suhaimz11"><img src="https://img.shields.io/badge/@Suhaimz11-111827?style=flat-square&logo=x&logoColor=A5B4FC" alt="X" /></a>
 
 </div>
 
 <br>
 
-### / About
+### Behind the code
 
-I’m interested in how AI moves beyond a model and becomes something people
-can interact with. I’m currently building with Python and React, exploring
-agent workflows, and learning how to take AI applications from prototype
-to deployment.
+I’m a **master’s student in Artificial Intelligence**, interested in what
+happens when models become part of something people actually use.
 
-<br>
-
-### / Selected work
-
-**[Voice Agent ↗](https://github.com/Suhaimz11/voice-agent)**  
-A voice-based AI agent exploring natural, interactive conversations.  
-<sub>VOICE INTERFACES &nbsp; / &nbsp; AI AGENTS</sub>
+My focus is on **AI agents, voice interfaces, and full-stack AI applications**.
+I’m building with Python and React while deepening my understanding of
+machine learning, deep learning, and the workflows that bring them to production.
 
 <br>
 
-**[AI Agent ↗](https://github.com/Suhaimz11/AI-AGENT)**  
-Experiments with intelligent assistants, workflows, and automation.  
-<sub>AGENT WORKFLOWS &nbsp; / &nbsp; AUTOMATION</sub>
+### Selected builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>01 / Voice Agent</h3>
+
+Exploring how voice can make interacting with an AI agent feel more natural.
 
 <br>
 
-### / Stack
+<code>Voice AI</code> <code>Conversational interfaces</code>
 
-**Languages** &nbsp; Python · JavaScript  
-**Applications** &nbsp; React · Node.js · HTML · CSS  
-**Machine learning** &nbsp; PyTorch · TensorFlow  
-**Tools & data** &nbsp; Git · GitHub · MySQL
+<br><br>
+
+<a href="https://github.com/Suhaimz11/voice-agent"><strong>Explore repository ↗</strong></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>02 / AI Agent</h3>
+
+A space to experiment with AI assistants, agent workflows, and automation.
 
 <br>
 
-### / Currently exploring
+<code>AI agents</code> <code>Automation</code>
 
-Machine learning & deep learning  /  Large language models  
-Computer vision  /  Data science & MLOps
+<br><br>
+
+<a href="https://github.com/Suhaimz11/AI-AGENT"><strong>Explore repository ↗</strong></a>
+
+</td>
+</tr>
+</table>
 
 <br>
 
----
+### Tools of the trade
 
-<sub>SUHAIM MANNA &nbsp; / &nbsp; LEARNING IN PUBLIC. BUILDING WITH INTENT.</sub>
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,pytorch,tensorflow,mysql,git&theme=dark&perline=8" alt="Python, JavaScript, React, Node.js, PyTorch, TensorFlow, MySQL, Git" />
+</p>
+
+<br>
+
+### On my radar
+
+```text
+01   Intelligence     Machine learning · Deep learning · LLMs
+02   Perception       Computer vision · Voice interfaces
+03   Delivery         Full-stack AI · MLOps · Automation
